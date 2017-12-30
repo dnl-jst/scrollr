@@ -1,0 +1,12 @@
+{
+  "name": "scrollr",
+  "author": "Daniel Jost",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "latest",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  },
+  "version": "0.1.0",
+  "repository": "https://github.com/dnl-jst/scrollr.git"
+}
